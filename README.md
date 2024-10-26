@@ -36,5 +36,4 @@ task-cli list done
 task-cli list todo
 task-cli list in-progress
 
-# Project URL: 
-https://roadmap.sh/projects/task-tracker
+# https://roadmap.sh/projects/task-tracker
