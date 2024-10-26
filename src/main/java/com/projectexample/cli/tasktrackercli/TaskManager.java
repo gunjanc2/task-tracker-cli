@@ -12,7 +12,7 @@ import java.util.List;
 
 public class TaskManager {  
 	
-	private static final String FILE_NAME = "C:\\Users\\Dell\\OneDrive\\Desktop\\Personal Projects\\Java\\Task Tracker CLI\\Output\\tasks.json";
+	private static final String FILE_NAME = "tasks.json";
 	private List<Task> tasks;
 	
 	public TaskManager() {
